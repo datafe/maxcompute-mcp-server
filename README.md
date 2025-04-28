@@ -33,14 +33,17 @@ The server offers 4 core tools:
      - `table_name` (string): Name of the table
    - Returns: Raw output of DESC command
 
-## Usage with Cline
+## Build from source
+
+- Code: [GitHub](https://github.com/datafe/maxcompute-mcp-server)
 
 ```bash
-# Install maxcompute-mcp-server
 cd /path/to/maxcompute-mcp-server
 uv pip install .
 uv build
 ```
+
+## Usage with Cline
 
 - maxcompute endpoints can view in [endpoint](https://help.aliyun.com/zh/maxcompute/user-guide/endpoints)
 
