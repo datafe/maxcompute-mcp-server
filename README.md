@@ -61,7 +61,7 @@ uv build
       "ALIBABA_CLOUD_ACCESS_KEY_ID": "",
       "ALIBABA_CLOUD_ACCESS_KEY_SECRET": "",
       "ALIBABA_CLOUD_MAXCOMPUTE_PROJECT": "",
-      "ALIBABA_CLOUD_MAXCOMPUTE_ENDPOINT": "http://service.cn.maxcompute.aliyun.com/api"
+      "ALIBABA_CLOUD_MAXCOMPUTE_ENDPOINT": "https://service.cn-shanghai.maxcompute.aliyun.com/api"
     }
   }
 }
