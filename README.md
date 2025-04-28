@@ -39,7 +39,12 @@ The server offers 4 core tools:
 # Install maxcompute-mcp-server
 cd /path/to/maxcompute-mcp-server
 uv pip install .
+uv build
 ```
+
+- maxcompute endpoints can view in [endpoint](https://help.aliyun.com/zh/maxcompute/user-guide/endpoints)
+
+- maxcompute projects can view in [projects](https://maxcompute.console.aliyun.com/cn-shanghai/project-list)
 
 ```bash
 # Add the server to your cline_mcp_settings.json
