@@ -48,6 +48,8 @@ uv pip install .
     "command": "uv",
     "args": [
       "run",
+      "--with",
+      "maxcompute-mcp-server",
       "maxcompute-mcp-server"
     ],
     "env": {
