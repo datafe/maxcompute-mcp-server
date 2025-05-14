@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/datafe-maxcompute-mcp-server-badge.png)](https://mseep.ai/app/datafe-maxcompute-mcp-server)
+
 # MaxCompute MCP Server
 
 ## Overview
